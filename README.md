@@ -1,0 +1,1 @@
+A python code that uses selenium webdriver and PhantomJS in order to retrieve the GitHub user account information.
